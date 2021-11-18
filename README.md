@@ -2,7 +2,7 @@
 
 ## Description
 Dynamic Dashboard Builder using VueJs and Typescript.
-![Dashboard][https://tinyurl.com/yfuxuaf6]
+![Dashboard](https://tinyurl.com/yfuxuaf6)
 
 ## Features
 - The drawing of the charts depend on a json which has (title, type, order, priority,style).
@@ -12,7 +12,7 @@ Dynamic Dashboard Builder using VueJs and Typescript.
     - Doughnut
     - Numeric
     - Table
-- charts are downloaded depending on priority as shown in the video Below:
+- Charts are downloaded depending on priority as shown in the video Below:
 [Demo][https://www.awesomescreenshot.com/video/6066076?key=50aa7545896e76a743ac06f1a7be68fc]
 
 ## Depndencies
