@@ -15,6 +15,10 @@ Dynamic Dashboard Builder using VueJs and Typescript.
 - Charts are downloaded depending on priority as shown in the video Below:
 [Demo][https://www.awesomescreenshot.com/video/6066076?key=50aa7545896e76a743ac06f1a7be68fc]
 
+## APIs
+- https://6192313daeab5c0017105e25.mockapi.io/api/meta
+- https://6192313daeab5c0017105e25.mockapi.io/api/chart-data/:id
+
 ## Depndencies
 - axios
 - chart.js
