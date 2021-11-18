@@ -2,7 +2,7 @@
 
 ## Description
 Dynamic Dashboard Builder using VueJs and Typescript.
-![Dashboard](https://tinyurl.com/yfuxuaf6)
+![Dashboard](https://www.awesomescreenshot.com/image/16981219?key=3ab64bc93f4630c5d8708feb8201592a)
 
 ## Features
 - The drawing of the charts depend on a json which has (title, type, order, priority,style).
